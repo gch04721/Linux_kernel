@@ -1,0 +1,1 @@
+cmd_/home/hjw/workspace/assignment_modules/linkedList/link_module.mod := { echo  /home/hjw/workspace/assignment_modules/linkedList/link_module.o; echo; } > /home/hjw/workspace/assignment_modules/linkedList/link_module.mod

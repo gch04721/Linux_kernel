@@ -1,0 +1,1 @@
+cmd_/home/hjw/workspace/assignment_modules/linkedList/link_module.ko := ld -r -m elf_x86_64  -z max-page-size=0x200000 -T ./scripts/module-common.lds --build-id  -o /home/hjw/workspace/assignment_modules/linkedList/link_module.ko /home/hjw/workspace/assignment_modules/linkedList/link_module.o /home/hjw/workspace/assignment_modules/linkedList/link_module.mod.o ;  true
