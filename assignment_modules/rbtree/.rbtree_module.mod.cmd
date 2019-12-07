@@ -1,1 +1,0 @@
-cmd_/home/hjw/workspace/linux/assignment_modules/rbtree/rbtree_module.mod := { echo  /home/hjw/workspace/linux/assignment_modules/rbtree/rbtree_module.o; echo; } > /home/hjw/workspace/linux/assignment_modules/rbtree/rbtree_module.mod
